@@ -1,6 +1,6 @@
 <h1 align="center">Olá 👋 , eu sou Samuel Ferreira</h1>
 
-<h3 align="center">Tecnólogo em Desenvolvimento Back-End, em formação como Especialista Back-End Java na Escola Britânica de Artes Criativas e Tecnologia. </h3>
+<h3 align="center">Tecnólogo em Desenvolvimento Back-End, em formação como Especialista Back-End Java na EBAC Escola Britânica de Artes Criativas e Tecnologia. </h3>
 <h4 align="center">Eu sou um desenvolvedor Java apaixonado por tecnologia e inovação. Meu principal foco é o desenvolvimento em Java, onde utilizo o Spring Boot para criar REST APIs e Microsserviços altamente escaláveis e eficientes. </h4>
 <h4 align="center">Estou sempre em busca de novos desafios e oportunidades para aprender e aplicar tecnologias inovadoras. Atualmente, estou focado em aprofundar meus conhecimentos em Cloud Computing, Docker e em estratégias de migração de sistemas monolíticos para microsserviços.</h4>
 
