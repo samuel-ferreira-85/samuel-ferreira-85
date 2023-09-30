@@ -1,8 +1,8 @@
 <h1 align="center">Olá 👋 , eu sou Samuel Ferreira</h1>
 
-<h3 align="center">Tecnólogo em Desenvolvimento Back-End, em formação como Especialista Back-End Java na EBAC Escola Britânica de Artes Criativas e Tecnologia. </h3>
-<h4 align="center">Eu sou um desenvolvedor Java apaixonado por tecnologia e inovação. Meu principal foco é o desenvolvimento em Java, onde utilizo o Spring Boot para criar REST APIs e Microsserviços altamente escaláveis e eficientes. </h4>
-<h4 align="center">Estou sempre em busca de novos desafios e oportunidades para aprender e aplicar tecnologias inovadoras. Atualmente, estou focado em aprofundar meus conhecimentos em Cloud Computing, Docker e em estratégias de migração de sistemas monolíticos para microsserviços.</h4>
+<h3 align="left">Tecnólogo em Desenvolvimento Back-End, Especialista Back-End Java pela EBAC Escola Britânica de Artes Criativas e Tecnologia. </h3>
+<h4 align="left">Eu sou um desenvolvedor Java apaixonado por tecnologia e inovação. Meu principal foco é o desenvolvimento em Java, onde utilizo o Spring Boot para criar REST APIs e Microsserviços altamente escaláveis e eficientes. </h4>
+<h3 align="left">Estou sempre em busca de novos desafios e oportunidades para aprender e aplicar tecnologias inovadoras. Atualmente, estou focado em aprofundar meus conhecimentos em Cloud Computing, Docker e em estratégias de migração de sistemas monolíticos para microsserviços.</h3>
 
 
 - Todos os meus projetos estão disponíveis em [https://github.com/samuel-ferreira-85](https://github.com/samuel-ferreira-85)
@@ -13,7 +13,8 @@
 
 <h3 align="left">Conecte comigo:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/samuel-ferreira85/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/samuel-ferreira85/" height="30" width="40" /></a></p><h3 align="left">Linguagens e Ferramentas:</h3><p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/samuel-ferreira85/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/samuel-ferreira85/" height="30" width="40" /></a></p>
+<h3 align="left">Linguagens e Ferramentas:</h3><p align="left">
 
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
 <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> 
